@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas`**
 
-Me chamo Mayco Sullivan Rocha Dias, tenho 38 anos e sou natural de Belém / Pará, sou graduado em Gestão em Sistema de Informação pela Unip/PA e Analise e Desenvolvimento de Software pela Estácio SÁ. Possuo um MBA em Gestão de Projetos pela Estácio SÁ. 
+Me chamo Mayco Sullivan Rocha Dias, tenho 38 anos e sou natural de Belém / Pará. Sou graduado em Gestão em Sistema de Informação (Unip), Analise e Desenvolvimento de Software (Estácio Sá), Pós Graduado em Gestão de Projetos (Estácio Sá). Possuo conhecimento em atendimento e suporte ao cliente, analise e desenvolvimento de sosftwares, implantação de softwares, levantamento de requisistos e ananlise de negócio, gestão de projetos, gerenciamento de backlog de produto e serciços, atuando com metodologia ágil scrum e kanban.
 
 <p align="left">
     </a> 
